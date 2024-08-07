@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Home() {
+export default function LineChart() {
   return (
     <div>
-      Welcome Home
+      Line chart
     </div>
   )
 }
